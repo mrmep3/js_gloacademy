@@ -10,4 +10,4 @@ console.log('Произведение числа: ', result);
 console.log('Результат вовзедения в 3 степень: ', result ** 3);
 console.log('Первые две цифры результата: ', String(result ** 3).slice(0, 2));
 
-Test
+//Test
